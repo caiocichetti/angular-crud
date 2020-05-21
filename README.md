@@ -1,4 +1,4 @@
-## Código desenvolvido durante o curso gratuito de Angular 9 da Cod3r
+## Angular CRUD
 
  <p align="center">
 	<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/caiocichetti/angular-crud" />
