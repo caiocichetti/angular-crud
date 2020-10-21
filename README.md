@@ -1,6 +1,6 @@
 # Angular CRUD
 
-## Instalação
+## Guia de Instalação
  
  **Clone o repositorio**
  
